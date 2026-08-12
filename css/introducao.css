@@ -58,6 +58,10 @@
     .introducao {
         grid-template-columns: 1fr;
     }
+    
+    .introducao h1 {
+        font-size: 2.875rem;
+    }
 
     .introducao img {
         display: none;
