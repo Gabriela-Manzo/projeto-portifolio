@@ -19,6 +19,11 @@
     line-height: 1.33;
 }
 
+.footer-contato {
+    justify-self: center;
+}
+
+
 .footer-contato li {
     margin-bottom: 30px;
     font-weight: bold;
@@ -29,7 +34,9 @@
     text-decoration: none;
     color: #fff;
 }
-
+.footer-contato li a:hover {
+    color: #8f8f8f;
+}
 .footer-copy {
     color: #8f8f8f;
     font-size: 1.125rem;
